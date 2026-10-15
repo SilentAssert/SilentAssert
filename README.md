@@ -1,12 +1,10 @@
 # Hi, I'm Julia 👋
 
-**QA Automation Engineer | Quality Engineering | Playwright & TypeScript**
-
 I approach software quality by understanding how products work, where risks lie, and what happens when things go wrong.
 
 I'm also interested in what happens beyond a test passing or failing: the questions we ask, what we might be overlooking, and the clues a failure leaves behind.
 
----
+
 
 
 
